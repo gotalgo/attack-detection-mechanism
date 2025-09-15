@@ -1,0 +1,121 @@
+[
+  {
+    "source_ip": "135.236.228.104",
+    "source_port": 5678,
+    "destination_ip": "10.178.140.42",
+    "destination_port": 8080,
+    "transport": "TCP"
+  },
+  {
+    "source_ip": "10.178.140.40",
+    "source_port": 5542,
+    "destination_ip": "109.247.136.34",
+    "destination_port": 9042,
+    "transport": "TCP"
+  },
+  {
+    "source_ip": "10.178.140.40",
+    "source_port": 9042,
+    "destination_ip": "109.247.136.34",
+    "destination_port": 5542,
+    "transport": "TCP"
+  },
+  {
+    "source_ip": "10.178.140.40",
+    "source_port": 9042,
+    "destination_ip": "109.247.136.34",
+    "destination_port": 5542,
+    "transport": "UDP"
+  },
+  {
+    "source_ip": "33.3.118.172",
+    "source_port": 10604,
+    "destination_ip": "10.178.140.42",
+    "destination_port": 8080,
+    "transport": "TCP"
+  },
+  {
+    "source_ip": "152.234.105.93",
+    "source_port": 10654,
+    "destination_ip": "10.126.73.183",
+    "destination_port": 32771,
+    "transport": "OTHER"
+  },
+  {
+    "source_ip": "207.62.9.75",
+    "source_port": 39130,
+    "destination_ip": "10.166.65.18",
+    "destination_port": 51719,
+    "transport": "OTHER"
+  },
+  {
+    "source_ip": "14.191.34.116",
+    "source_port": 11888,
+    "destination_ip": "192.168.95.63",
+    "destination_port": 42969,
+    "transport": "OTHER"
+  },
+  {
+    "source_ip": "221.115.47.125",
+    "source_port": 13846,
+    "destination_ip": "192.168.27.114",
+    "destination_port": 9093,
+    "transport": "OTHER"
+  },
+  {
+    "source_ip": "206.2.42.1",
+    "source_port": 63544,
+    "destination_ip": "10.68.189.158",
+    "destination_port": 34133,
+    "transport": "OTHER"
+  },
+  {
+    "source_ip": "10.78.131.169",
+    "source_port": 65318,
+    "destination_ip": "192.168.29.125",
+    "destination_port": 65146,
+    "transport": "UDP"
+  },
+  {
+    "source_ip": "172.29.52.243",
+    "source_port": 59607,
+    "destination_ip": "10.5.162.92",
+    "destination_port": 63865,
+    "transport": "UDP"
+  },
+  {
+    "source_ip": "172.19.143.63",
+    "source_port": 43178,
+    "destination_ip": "10.96.74.14",
+    "destination_port": 62732,
+    "transport": "UDP"
+  },
+  {
+    "source_ip": "192.168.139.137",
+    "source_port": 6621,
+    "destination_ip": "172.22.183.245",
+    "destination_port": 26224,
+    "transport": "UDP"
+  },
+  {
+    "source_ip": "192.168.74.100",
+    "source_port": 35688,
+    "destination_ip": "10.200.125.119",
+    "destination_port": 27983,
+    "transport": "UDP"
+  },
+  {
+    "source_ip": "192.168.74.100",
+    "source_port": 35688,
+    "destination_ip": "178.17.174.68",
+    "destination_port": 80,
+    "transport": "TCP"
+  },
+  {
+    "source_ip": "192.168.74.150",
+    "source_port": 35688,
+    "destination_ip": "5.45.104.141",
+    "destination_port": 80,
+    "transport": "TCP"
+  }
+]
